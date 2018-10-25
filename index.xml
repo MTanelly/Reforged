@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.01" name="Warhammer reforged" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Warhammer_Reforged_Atalaya_00.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.01" dataRevision="10"/>
+    <dataIndexEntry filePath="Altos_Elfos.catz" dataType="catalogue" dataId="90ff-d5d9-3ca7-598e" dataName="Altos_Elfos" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Bestias_del_Caos.catz" dataType="catalogue" dataId="51fc-eb9b-4cd8-7ac0" dataName="Bestias del Caos" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Elfos_Oscuros.catz" dataType="catalogue" dataId="3216-304d-aab6-db09" dataName="Elfos Oscuros" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Guerreros_del_Caos.catz" dataType="catalogue" dataId="399a-efe8-a7c4-3104" dataName="Guerreros del Caos" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Elfos_Silvanos.catz" dataType="catalogue" dataId="924e-28e4-3972-c476" dataName="Elfos Silvanos" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Grey_Infernal_Caos.catz" dataType="catalogue" dataId="d2ea-a0b8-8a9f-e3a5" dataName="Grey Infernal" dataBattleScribeVersion="2.01" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
